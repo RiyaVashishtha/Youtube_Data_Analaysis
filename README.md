@@ -29,6 +29,9 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ![architecture](https://github.com/RiyaVashishtha/Youtube_Data_Analaysis/assets/63110762/f6c918eb-061c-45ff-8fa2-9c63be54cbdd)
 
+## Analytics Job Architecture Diagram
+
+![image](https://github.com/RiyaVashishtha/Youtube_Data_Analaysis/assets/63110762/51fb38e4-593e-470e-a752-c945ff1448e1)
 
 
 
