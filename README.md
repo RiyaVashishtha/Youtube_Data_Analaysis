@@ -31,7 +31,8 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Analytics Job Architecture Diagram
 
-![image](https://github.com/RiyaVashishtha/Youtube_Data_Analaysis/assets/63110762/51fb38e4-593e-470e-a752-c945ff1448e1)
+![image](https://github.com/RiyaVashishtha/Youtube_Data_Analaysis/assets/63110762/58c1486c-46cb-4c40-b63a-fcc981c5b69f)
+
 
 
 
