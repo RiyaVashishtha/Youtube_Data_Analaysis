@@ -33,6 +33,11 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ![image](https://github.com/RiyaVashishtha/Youtube_Data_Analaysis/assets/63110762/58c1486c-46cb-4c40-b63a-fcc981c5b69f)
 
+## QUICKSGHT
+## YOUTUBE DATA ANALYTICS DASHBOAR
+
+![image](https://github.com/RiyaVashishtha/Youtube_Data_Analaysis/assets/63110762/b09defe7-70c8-401f-92e9-3f94ac34dad4)
+
 
 
 
