@@ -6,3 +6,6 @@ inner join
 
 # create analytical database
 CREATE DATABASE db_youtube_analytics;
+
+# analtytical query
+SELECT * FROM "AwsDataCatalog"."db_youtube_analytics"."final-analytics" limit 10;
